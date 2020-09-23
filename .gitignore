@@ -4,6 +4,8 @@
 /plugins/Essentials/userdata/
 /plugins/Essentials/usermap.csv
 /plugins/WorldEdit/sessions/
+/plugins/Terra.jar
+/plugins/Terra
 /world/
 /world_nether/
 /world_the_end/
@@ -26,5 +28,6 @@
 /*.jar
 # macOS file system dust
 *.DS_*
+
 
 plugins/Multiverse-Core/worlds.yml
